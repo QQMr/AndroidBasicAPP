@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="sex">性別</string>
+    <string name="edtSex">輸入性別</string>
+    <string name="Hint1">輸入性別</string>
+    <string name="age">年齡</string>
+    <string name="edtAge">輸入年齡</string>
+    <string name="Hint2">輸入年齡</string>
+    <string name="txtR">建議:</string>
+    <string name="suggestion">建議:</string>
+    <string name="sug_not_hurry">還不及</string>
+    <string name="sug_get_married">趕快結婚!</string>
+    <string name="sug_find_couple">趕快找對象</string>
+    <string name="ssx_male">男</string>
+</resources>
